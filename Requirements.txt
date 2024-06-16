@@ -1,0 +1,14 @@
+pandas~=2.0.3
+sqlalchemy~=2.0.27
+flask~=3.0.2
+sqlite3~=3.41.2
+flask_restful~=0.3.10
+flask-sqlalchemy~=3.1.1
+openmeteo_requests~=1.2.0
+requests_cache~=1.2.0
+retry_requests~=2.0.0
+functools~=1.6.4
+os~=0.0.1
+pytest~=7.4.0
+psycopg2~=2.9.9
+ipython~=8.15.0
